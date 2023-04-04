@@ -5,7 +5,7 @@ Projeto do Alura Plus (parte do curso HTML e CSS da Alura)
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Alura+**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
+| :label: Tecnologias | HTML, CSS
 | :rocket: URL         | [https://alura-plus.vercel.app](https://alura-plus-kappa-lovat.vercel.app/)
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
